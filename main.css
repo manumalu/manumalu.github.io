@@ -1,0 +1,41 @@
+.box { 
+    width: 1000px;
+    height: 450px;
+    padding: 10px;
+    position: fixed;
+    right: 50px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+    border: 10px rgb(160, 159, 159);
+    background-image: url(hip-square.png);
+    background-size: cover;
+    text-align: center;
+  }
+
+h1 {
+  color: rgb(235, 55, 43);
+  text-align: left 90px;
+  font-size: 60;
+  font-family: monospace;
+}
+
+body {
+    background-color: rgb(50, 50, 65);
+}
+
+p {
+  font-family: monospace;
+  font-size: 20x;
+}
+
+.tab {
+
+  width: 150px;
+  height: 35px;
+  padding: 10px ;
+  box-shadow: 0px 0px 10px 2px grey;
+  border: 10px rgb(160, 159, 159);
+  margin-top: 90px;
+
+
+}
